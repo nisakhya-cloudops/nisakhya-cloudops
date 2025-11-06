@@ -1,16 +1,32 @@
-## Hi there 👋
+# 👋 Hi, I'm Nisakhya Kolli
 
-<!--
-**nisakhya-cloudops/nisakhya-cloudops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Senior DevOps | Site Reliability Engineer | Cloud Automation Specialist**  
+I design, automate, and scale cloud infrastructure for high-performance, secure, and reliable systems.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🧰 Tech Focus
+- **Cloud:** AWS (ECS, EKS, Lambda, CloudFront, RDS, API Gateway)
+- **Automation & IaC:** Terraform, CloudFormation, Ansible, AWS CDK
+- **CI/CD:** GitHub Actions, Jenkins, ArgoCD, Spinnaker
+- **Containers:** Docker, Kubernetes
+- **Monitoring:** Grafana, Prometheus, Splunk, Datadog
+- **Languages:** Python, Bash, Node.js
+
+---
+
+### 🧱 Featured Projects
+🔹 [**AWS Terraform Infrastructure Template**](https://github.com/nisakhyakolli/aws-terraform-infra-template) — Reusable AWS IaC modules with GitHub Actions automation.  
+🔹 [**AWS Boto3 Automation Toolkit**](https://github.com/nisakhyakolli/aws-boto3-automation-tools) — Python scripts for EC2 scheduling, IAM key rotation, and S3 cleanup.  
+🔹 [**GitHub Actions CI/CD Demo**](https://github.com/nisakhyakolli/github-actions-ci-cd-demo) — End-to-end pipeline deploying Dockerized Flask app to AWS ECS.
+
+---
+
+### 🌐 Connect with Me
+💼 [LinkedIn](https://www.linkedin.com/in/nk018/)  
+📧 **Email:** knisakhya@gmail.com  
+📍 Austin, TX (Remote/Hybrid)
+
+---
+
+> “Automate everything. Observe everything. Fail fast, recover faster.”

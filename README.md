@@ -16,9 +16,9 @@ I design, automate, and scale cloud infrastructure for high-performance, secure,
 ---
 
 ### 🧱 Featured Projects
-🔹 [**AWS Terraform Infrastructure Template**](https://github.com/nisakhyakolli/aws-terraform-infra-template) — Reusable AWS IaC modules with GitHub Actions automation.  
-🔹 [**AWS Boto3 Automation Toolkit**](https://github.com/nisakhyakolli/aws-boto3-automation-tools) — Python scripts for EC2 scheduling, IAM key rotation, and S3 cleanup.  
-🔹 [**GitHub Actions CI/CD Demo**](https://github.com/nisakhyakolli/github-actions-ci-cd-demo) — End-to-end pipeline deploying Dockerized Flask app to AWS ECS.
+🔹 [**AWS Terraform Infrastructure Template**](https://github.com/nisakhya-cloudops/aws-terraform-infra-template) — Reusable AWS IaC modules with GitHub Actions automation.  
+🔹 [**AWS Boto3 Automation Toolkit**](https://github.com/nisakhya-cloudops/aws-boto3-automation-tools) — Python scripts for EC2 scheduling, IAM key rotation, and S3 cleanup.  
+🔹 [**GitHub Actions CI/CD Demo**](https://github.com/nisakhya-cloudops/github-actions-ci-cd-demo) — End-to-end pipeline deploying Dockerized Flask app to AWS ECS.
 
 ---
 
